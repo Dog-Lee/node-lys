@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "https": "^1.0.0",
+    "mysql": "2.13.0"
+  }
+}
